@@ -24,6 +24,7 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   plugin:
+    implements: federated_demo
     platforms:
       macos:
         dartPluginClass: FederatedDemoDart
