@@ -1,0 +1,22 @@
+PODS:
+  - federated_demo_dart (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - federated_demo_dart (from `Flutter/ephemeral/.symlinks/plugins/federated_demo_dart/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  federated_demo_dart:
+    :path: Flutter/ephemeral/.symlinks/plugins/federated_demo_dart/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  federated_demo_dart: 18d0bd6f47b00a9df6ba5d11bf0c4660295d0ef6
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.10.1
